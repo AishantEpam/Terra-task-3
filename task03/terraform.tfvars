@@ -1,13 +1,13 @@
-resource_group_name = "cmaz-9f1znn32-mod3-rg"
+resource_group_name = "cmaz-hb5wx41s-mod3-rg"
 location            = "East US"
 
-storage_account_name = "cmaz9f1znn32sa"
+storage_account_name = "cmazhb5wx41ssa"
 
-vnet_name = "cmaz-9f1znn32-mod3-vnet"
+vnet_name = "cmaz-hb5wx41s-mod3-vnet"
 
 frontend_subnet_name = "frontend"
 backend_subnet_name  = "backend"
 
 tags = {
-  Creator = "ketan_thansinghpardhi@epam.com"
+  Creator = "aishant_parashar@epam.com"
 }
